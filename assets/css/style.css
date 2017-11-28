@@ -34,14 +34,14 @@
     background-repeat: no-repeat;
     background-color: #000;
   	   }
-  #kittensm{
+  #kittenlg{
   	height: 40%;  	
   	text-align: center;
   	padding-top: 15%;
   	display: block;
   }   
 
-  #kittenmd, #kittenlg{
+  #kittenmd, #kittensm{
   	display: none;
   }
 
@@ -58,14 +58,14 @@
     background-repeat: no-repeat;
     background-color: #000;
    }
-  #kittenlg{
+  #kittensm{
 	height: 40%;  	
   	text-align: center;
   	padding-top: 25%;
   	display:block;
    }
 
-  #kittensm, #kittenmd{
+  #kittenlg, #kittenmd{
   	display:none;
    }
 
